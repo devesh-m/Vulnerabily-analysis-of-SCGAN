@@ -1,0 +1,17 @@
+To reproduce the audit results, please follow these steps:
+
+1. SOURCE PAPER: 
+   "Semi-Cycled Generative Adversarial Networks for 
+   Real-World Face Super-Resolution" (IEEE TIP 2023)
+
+2. DOWNLOAD LINK:
+   Refer to the official implementation repository:
+   https://github.com/HaoHou-98/SCGAN(or the relevant source)
+
+3. PLACEMENT:
+   Download the 'G_l2h' (Low-to-High) weights and place the 
+   file in this directory.
+   
+4. FILENAME:
+   Ensure the file is named: pretrained_model.pth
+
