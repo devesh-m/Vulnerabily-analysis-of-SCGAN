@@ -3,7 +3,7 @@
 This repository contains the official implementation and experimental framework for a security audit of **Semi-Cycled Generative Adversarial Networks (SCGAN)**. Our research exposes a critical vulnerability in the generative latent space that allows for deterministic identity spoofing in biometric authentication systems.
 
 **Authors:** Devesh Mirchandani, Kartik Sharma, Padmnabh Tewari (IIIT Vadodara)  
-**Paper:** [Full IEEE Journal Draft](paper_draft.pdf)
+
 
 ---
 
@@ -30,7 +30,7 @@ We evaluate a spatial purification gateway (3x3 Median Filtering) to neutralize 
 Due to GitHub's file size restrictions, the model weights (`.pth`) are not hosted in this repository. 
 
 **To run this code:**
-1. Refer to the **[Original SCGAN Paper Link](https://github.com/scgan_authors_placeholder)** (or the specific base paper you are using).
+1. Refer to the **[Original SCGAN Paper Link](https://github.com/HaoHou-98/SCGAN)** (or the specific base paper you are using).
 2. Download the baseline `G_l2h` weights.
 3. Place the weights file in the `./pretrained_weights/` directory.
 4. Ensure the file is named `pretrained_model.pth` to match the configuration in `attack_pipeline.py`.
