@@ -1,8 +1,13 @@
+MidSem Presentation:
+EndSem Presentation:
+---
+
 # Vulnerability Analysis of Semi-Cycled GANs in Biometric Pipelines
 
 This repository contains the official implementation and experimental framework for a security audit of **Semi-Cycled Generative Adversarial Networks (SCGAN)**. Our research exposes a critical vulnerability in the generative latent space that allows for deterministic identity spoofing in biometric authentication systems.
 
 **Authors:** Devesh Mirchandani, Kartik Sharma, Padmnabh Tewari (IIIT Vadodara)  
+
 
 
 ---
