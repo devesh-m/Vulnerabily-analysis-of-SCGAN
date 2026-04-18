@@ -1,5 +1,5 @@
-MidSem Presentation:
-EndSem Presentation:
+*MidSem Presentation:https://drive.google.com/file/d/1r4O2wAlrC9Y7njH8JJUT78X8f-2FSZeF/view
+*EndSem Presentation:https://drive.google.com/file/d/1mHsY_FwquNufExnvFbwwPYaTd3WwuT-b/view?t=7.017
 ---
 
 # Vulnerability Analysis of Semi-Cycled GANs in Biometric Pipelines
